@@ -5,8 +5,8 @@ Ce projet est une application web permettant de gérer les commandes de voitures
 ## 🛠️ Fonctionnalités
 
 - Création et gestion des commandes de véhicules
-- Suivi de l’état des commandes (en attente, en cours, livrée)
-- Gestion des livraisons (dates, lieux, transporteurs)
+- Suivi de l’état des commandes 
+- Gestion des livraisons (dates)
 - Gestion des clients
 - Visualisation du stock de voitures disponibles
 
