@@ -12,10 +12,11 @@ Ce projet est une application web permettant de gérer les commandes de voitures
 
 ## 💻 Technologies utilisées
 
-- **Frontend** : HTML, CSS, JavaScript
-- **Backend** : PHP / Node.js / Python (à adapter selon ton choix)
-- **Base de données** : MySQL / MongoDB (à adapter aussi)
-- **Outils** : Git, VSCode
+- **Langage** : C#
+- **IDE** : Microsoft Visual Studio
+- **Serveur local** : WampServer 
+- **Base de données** : MySQL
+
 
 ## 📦 Installation
 
